@@ -11,7 +11,7 @@ Cela permet de garder une distinction claire entre les configurations disponible
 
 ---
 
-### **Évaluation formative 02 :**
+# **Évaluation formative 02 :**
 
 1. **C'est quoi un lien symbolique ?**  
 Un lien symbolique (ou symlink) est un type de fichier spécial qui pointe vers un autre fichier ou dossier. C'est comme un raccourci. Quand Nginx lit un fichier dans `sites-enabled`, il suit ce lien pour accéder au fichier réel dans `sites-available`.
