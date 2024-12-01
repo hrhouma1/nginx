@@ -1,4 +1,4 @@
-### **Évaluation formative 01 : À quoi servent les dossiers `sites-available` et `sites-enabled` ?**
+# **Évaluation formative 01 : À quoi servent les dossiers `sites-available` et `sites-enabled` ?**
 
 - **`sites-available`** :  
   Ce dossier contient tous les fichiers de configuration des sites web que le serveur Nginx peut potentiellement héberger. Chaque fichier représente un site ou une configuration particulière. Les fichiers ici ne sont pas activés par défaut.
